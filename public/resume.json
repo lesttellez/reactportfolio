@@ -1,0 +1,125 @@
+{
+    "main": {
+      "name":"Celeste Tellez",
+      "description":"",
+      "image":"",
+      "bio":"",
+      "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+      "email": "tellezceleste1@gmail.com",
+      "github":"https://github.com/lesttellez",
+      "project":"",
+      "address":{
+        "street":"(Your Street)",
+        "city":"Phoenix",
+        "state":"AZ",
+        "zip": "(Your Zip/Postal Code)"
+      },
+      "website": "https://github.com/lesttellez",
+      "resumedownload":"",
+      "social":[
+        {
+          "name":"github",
+          "url":"https://github.com/lesttellez",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"linkedin",
+          "url":"",
+          "className":"fa fa-linkedin"
+        }
+      ]
+    },
+    "resume":{
+      "education":[
+        {
+          "school":"University of Arizona",
+          "degree":"Coding Bootcamp- in Process",
+          "description":"Coursework Included: HTML, CSS, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, MongoDB, MySQL"
+        }
+      ],
+      "work":[
+        {
+          "company":"Construction Labels",
+          "title":"Label Technian",
+          "years":"March 2017 - Present",
+          "description":"Execute production and shipping of label orders.Collaborate with Construction Labels Sales, Estimating, Management, Customers, and other technicians to maintain production flow"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"",
+          "shorttitle": "",
+          "category":"Personal Project",
+          "image":"",
+          "info":"",
+          "url":"",
+          "repo":"https://github.com/t"
+        },
+        {
+          "title":"",
+          "shorttitle": "",
+          "category":"Academic (group) Project",
+          "image":"",
+          "info":"",
+          "url":"",
+          "repo":""
+        },
+        {
+          "title":"",
+          "shorttitle": "",
+          "category":"Academic (group) Project",
+          "image":"",
+          "info":"",
+          "url":"",
+          "repo":"https://github.com/t"
+        },
+        {
+          "title":"",
+          "shorttitle": "",
+          "category":"Academic Project",
+          "image":"",
+          "info":"",
+          "url":"",
+          "repo":"https://github.com/"
+        },
+        {
+          "title":"",
+          "shorttitle": "",
+          "category":"Academic Project",
+          "image":"b",
+          "info":"",
+          "url":"",
+          "repo":"https://github.com/"
+        },
+        {
+          "title":"",
+          "shorttitle": "B",
+          "category":"Academic Project",
+          "image":"",
+          "info":"",
+          "url":"",
+          "repo":"https://github.com/"
+        },
+        {
+          "title":"Weather Dashboard",
+          "shorttitle": "Weather Dashboard",
+          "category":"Academic Project",
+          "image":"weatherDashboard.png",
+          "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API",
+          "url":"",
+          "repo":"https://github.com/"
+        },
+        {
+          "title":"",
+          "shorttitle": "",
+          "category":"Personal Project",
+          "image":"b",
+          "info":"HTML, CSS, JS",
+          "url":"",
+          "repo":"https://github.com/"
+        }
+      ]
+    }
+  }
